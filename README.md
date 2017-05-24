@@ -2,6 +2,8 @@
 
 > A Vue.js project live-coded at [Twilio SIGNAL 2017](https://www.twilio.com/signal/schedule/366K9oLrQcSAUEW4eS86mw/vue-js-from-the-back-end).
 
+![screenshot](screenshot.png)
+
 ## Build Setup
 
 ``` bash
