@@ -27,3 +27,5 @@ npm test
 ```
 
 **Note:** You might run into a CORS issue while running the app. For demo purposes, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en).
+
+**Another note:** `vue-resource` has been deprecated since this demo was live-coded. If you'd like to incorporate API calls in your Vue app, use [axios](https://github.com/mzabriskie/axios).
